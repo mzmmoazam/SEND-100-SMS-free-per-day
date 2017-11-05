@@ -1,2 +1,4 @@
 # Sms-server-100-per-day-
-Sends sms
+# It allows you send 100 sms to anybody for free.
+
+
